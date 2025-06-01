@@ -81,7 +81,7 @@ ETHERSCAN_API_KEY=your_etherscan_api_key
 ```
 
 ## Deployment
-Use the Makefile in the src directory to make deployments. Change the .env file as seen fit to enable smooth deployment using Make. Else you can you Foundry commands [see here](https://getfoundry.sh/)
+Use the Makefile in the src directory to make deployments. Change the .env file as seen fit to enable smooth deployment using Make. Else you can use Foundry commands [see here](https://getfoundry.sh/)
 
 
 ## Security Considerations
